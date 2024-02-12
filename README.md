@@ -1,21 +1,21 @@
-<h1 align="left">Hola!!👋 </h1>
+<h1 align="left">Hi!!👋 </h1>
 
 ###
 
-<p align="left">Mi nombre es Paula Arroyo y soy una desarrolladora Android que se encuentra en la busqueda de nuevos desafíos en el mundo de la tecnología.</p>
+<p align="left">My name is Paula Arroyo and I am an Android developer who is in search of new challenges in the world of technology..</p>
 
 ###
 
-<h2 align="left">Sobre mí</h2>
+<h2 align="left">About me</h2>
 
 ###
 
 <p align="left">
-  ✨ En octubre del año 2023 finalicé el bootcamp de Desarrollo de Aplicaciones Móviles Android Traine, en la Academia Desafío Latam.  
-  <br>📚 En la actualidad me especializo en el desarrollo de aplicaciones Android
-  <br>🎯 Metas: Consolidarme como una desarrolladora Android
-  <br>🎲 Intereses: Senderismo, teatro
-  <br>📂 Para más información revisa <a href="https://paulasalvo.github.io/">mi portafolio</a>
+  ✨ In October 2023, I completed the Android Mobile Applications Development bootcamp at Traine, at the Desafío Latam Academy.  
+  <br>📚 Currently, I specialize in Android application development.
+  <br>🎯 Goals: To establish myself as an Android developer.
+  <br>🎲 Interests: Hiking, theater
+  <br>📂 For more information, please review <a href="https://paulasalvo.github.io/">mi portafolio</a>
 </p>
 
 ###
