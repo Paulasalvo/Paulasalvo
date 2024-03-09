@@ -15,7 +15,7 @@
   <br>📚 Currently, I specialize in Android application development.
   <br>🎯 Goals: To establish myself as an Android developer.
   <br>🎲 Interests: Hiking, theater
-  <br>📂 For more information, please review <a href="https://paulasalvo.github.io/">mi portafolio</a>
+  <br>📂 For more information, please review <a href="https://paulasalvo.github.io/">My portfolio</a>
 </p>
 
 ###
